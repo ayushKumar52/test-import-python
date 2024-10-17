@@ -1,3 +1,4 @@
+# Databricks notebook source
 # Example function to add two numbers
 def add(a, b):
     result = a + b
